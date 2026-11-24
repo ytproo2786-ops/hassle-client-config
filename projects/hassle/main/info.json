@@ -1,13 +1,13 @@
 {
   "1.7.7": {
-    "cdn": "http://45.136.205.134/mobiles/release/game/1.8.1",
+    "cdn": "https://dl2.hasslecdn.com/game/1.8.9.6",
     "Android": {
       "version": "1.7.7",
-      "resourcesVersion": 223
+      "resourcesVersion": 290
     },
     "iOS": {
       "version": "1.7.3",
-      "resourcesVersion": 207
+      "resourcesVersion": 290
     },
     "servers": {
       "2": {
@@ -19,14 +19,14 @@
     }
   },
   "1.7.6": {
-    "cdn": "http://45.136.205.134/mobiles/release/game/1.8.1",
+    "cdn": "https://dl2.hasslecdn.com/game/1.8.9.6",
     "Android": {
       "version": "1.7.7",
-      "resourcesVersion": 223
+      "resourcesVersion": 290
     },
     "iOS": {
       "version": "1.7.3",
-      "resourcesVersion": 207
+      "resourcesVersion": 290
     },
     "servers": {
       "2": {
@@ -38,14 +38,14 @@
     }
   },
   "0.0.0": {
-    "cdn": "http://45.136.205.134/mobiles/release/game/1.8.1",
+    "cdn": "https://dl2.hasslecdn.com/game/1.8.9.6",
     "Android": {
       "version": "1.7.7",
-      "resourcesVersion": 223
+      "resourcesVersion": 290
     },
     "iOS": {
       "version": "1.7.3",
-      "resourcesVersion": 207
+      "resourcesVersion": 290
     },
     "servers": {
       "2": {
