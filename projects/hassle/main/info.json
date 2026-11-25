@@ -1,6 +1,7 @@
 {
   "1.9.0": {
     "cdn": "https://dl2.hasslecdn.com/game/1.8.9.6",
+    "released": false,
     "Android": {
       "version": "1.8.2",
       "resourcesVersion": 290
@@ -20,6 +21,7 @@
   },
   "1.8.5": {
     "cdn": "https://dl2.hasslecdn.com/game/1.8.9.6",
+    "released": false,
     "Android": {
       "version": "1.8.5",
       "resourcesVersion": 290
@@ -39,6 +41,7 @@
   },
   "1.7.7": {
     "cdn": "https://dl2.hasslecdn.com/game/1.8.9.6",
+    "released": false,
     "Android": {
       "version": "1.7.7",
       "resourcesVersion": 290
@@ -58,6 +61,7 @@
   },
   "1.7.6": {
     "cdn": "https://dl2.hasslecdn.com/game/1.8.9.6",
+    "released": false,
     "Android": {
       "version": "1.7.7",
       "resourcesVersion": 290
@@ -77,6 +81,7 @@
   },
   "0.0.0": {
     "cdn": "https://dl2.hasslecdn.com/game/1.8.9.6",
+    "released": false,
     "Android": {
       "version": "1.7.7",
       "resourcesVersion": 290
